@@ -1,4 +1,4 @@
-# Arthur Farias Costa
+# Olá!👋 Meu nome é Arthur Farias Costa!
 ## Sobre mim
 💻 Estudante de Análise e Desenvolvimento de Sistemas
  No momento estou apenas focando em aprender sobre java, banco de dados e git/github, para futuramente melhorar meu perfil github e começar a procurar oportunidades de empregos e aumentar ainda mais minhas habilidades.
