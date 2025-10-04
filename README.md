@@ -2,7 +2,7 @@
 ## - Sobre mim
 💻 Estudante de Análise e Desenvolvimento de Sistemas
 
- No momento estou apenas focando em aprender sobre java, banco de dados e git/github, para futuramente melhorar meu perfil github e começar a procurar oportunidades de empregos e aumentar ainda mais minhas habilidades.
+ No momento estou focando em aprender mais sobre java, banco de dados e git/github, para melhorar meu portfólio e tambémencontrar oportunidades de empregos para ganhar experiência e aumentar ainda mais minhas habilidades.
  ## - Habilidades
  ### Linguagens:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
