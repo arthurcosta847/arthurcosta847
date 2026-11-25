@@ -1,4 +1,4 @@
-# Olá!👋 Meu nome é Arthur Farias Costa!
+# Olá!👋 Meu nome é Arthur!
 ## - Sobre mim
 💻 Estudante de Análise e Desenvolvimento de Sistemas
 
